@@ -56,7 +56,7 @@
   - [**有道笔记**](https://note.youdao.com/)
   - [**OneNote**](https://www.onenote.com/)
   - [**幕 布**](https://mubu.com/)
-  - [**石墨文档**](ttps://shimo.im/)
+  - [**石墨文档**](https://shimo.im/)
   - [**为知笔记**](https://www.wiz.cn/)
   - [**语 雀**](https://www.yuque.com/)
 - 在线技术文档
